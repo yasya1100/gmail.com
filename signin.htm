@@ -1,0 +1,330 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+    
+
+
+
+    
+
+
+
+<head>
+    <meta charset="utf-8"/>
+    <link rel="shortcut icon" href="https://appleid.cdn-apple.com/daw/IDMSWebAuth/static/04Jun2019/images/favicon.ico" type="image/X-icon"/>
+    <title>Войти - Apple</title>
+    <meta name="viewport" content="initial-scale=1.0">
+    <meta name="Author" content="Apple Inc.">
+    <meta name="Description" content="Вход в систему с Apple ID">
+    <meta name="Title" content="Вход в систему с Apple ID">
+    
+
+
+<link rel="stylesheet" type="text/css"
+      href="https://www.apple.com/ac/globalfooter/3/ru_RU/styles/ac-globalfooter.built.css"/>
+
+    
+    
+
+    <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/authService.latest.min.js"></script>
+    <script src="https://appleid.cdn-apple.com/daw/IDMSWebAuth/static/04Jun2019/views/static/js/retina.js" type="text/javascript"
+            charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css"
+          href="https://appleid.cdn-apple.com/daw/IDMSWebAuth/static/04Jun2019/views/static/css/login/embedLogin.css"/>
+    
+    <link rel="alternate" hreflang='x-default' href=''/>
+    
+    
+</head>
+<body data-theme="gray" style="background-color: #FFFFFF">
+
+<noscript>
+    <div class="noscript ltr">
+        <h1>Включите JavaScript</h1>
+        <p>Включите JavaScript, чтобы страница отображалась корректно.</p>
+    </div>
+</noscript>
+<div class="wrapper window" style="background-color: #FFFFFF">
+    <div id="auth-container" class="si-frame">
+    </div>
+    
+    
+        
+    
+    
+        
+        
+            
+        
+        
+            
+        
+        
+    
+
+    <!-- If app team needs to set ap name and signin string(description) separatly, please refer widget.1879.* configuration -->
+    
+    
+    
+        
+    
+    
+    
+    
+
+
+
+	
+	
+
+    <script type="text/javascript">
+        var dawConfig = {};
+        dawConfig = {"appId":632,"appCustomAttributes":{"showAppleIDLogo":false,"widgetMode":"inline","showRememberMe":true,"enableKeepMeSignedIn":false,"showCreateLink":true,"logoWidth":"auto","showGlobalNav":false,"showGlobalFooter":true,"hideContrySelector":true,"openAppleIDLinksInNewWindow":true,"prePopulateAppleId":false,"myAccessCreateLink":false,"disableiForgotReturnUrl":false,"rememberMeChecked":false,"enableEyebrowTextbox":true}};
+        dawConfig.signInString = encodeURI("Вход в Apple Developer");
+        dawConfig.accountName = encodeURI("");
+
+        var logoSrc = dawConfig.appCustomAttributes.logoImage;
+        if (logoSrc != undefined) {
+            logoSrc = 'https://idmsa.apple.com' + dawConfig.appCustomAttributes.logoImage
+        }
+
+        /** logoImage update for Retina cases **/
+        if (isRetina() == true) {
+            logoSrc = replace2XImage(logoSrc);
+        }
+
+        /** logoWidth adjustments for retina image*/
+        var logoWidth = dawConfig.appCustomAttributes.logoWidth;
+        if (logoWidth != undefined && logoWidth != 'auto') {
+            if (isRetina()) {
+                logoWidth = logoWidth * 2;
+            }
+            logoWidth = logoWidth + 'px';
+        }
+
+        /** DAW Return URL Version **/
+        var returnUrlVersion = '1';
+        if (returnUrlVersion != undefined && returnUrlVersion == '0') {
+            returnUrlVersion = '1';
+        }
+
+        window.onload = function () {
+            var initOpts = {
+
+                
+                    
+                    
+                serviceKey: '16452abf721961a1728885bef033f28e',
+                    
+                
+
+                serviceURL: 'https://idmsa.apple.com/appleauth',
+                containerId: 'auth-container',
+                devAppDomain: '',
+                authUIMode: 'window',
+                locale: 'RU-RU',
+                requestorAppId: '632',
+                theme: 'dark',
+                signInLabel: decodeURI(dawConfig.signInString),
+                appName: ' ',
+                createLinkText: '',
+                returnUrl: decodeURIComponent('https%3A%2F%2Fdeveloper.apple.com%2Faccount%2Fresources%2F'),
+                accountName: decodeURI(dawConfig.accountName),
+                signInPageURL: decodeURIComponent('https%3A%2F%2Fidmsa.apple.com%2Fsignin%3Flanguage%3DRU-RU%26rv%3D1%26path%3D%252Faccount%252Fresources%252F%26Env%3DUAT%26appIdKey%3D891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757'),
+                createLinkUrl: decodeURIComponent(''),
+                alternateTokenCookie: false,
+                font: 'sf',
+                verificationToken: "",
+                logo: {
+                    src: logoSrc,
+                    width: logoWidth,
+                    url: dawConfig.appCustomAttributes.logoTargetUrl
+                },
+                requestorAppParams: {
+                    serviceKey: '891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757',
+                    domainId: returnUrlVersion,
+                    baseURL: '',
+                    path: '/account/resources/'
+                },
+                features: {
+                    rememberMe: dawConfig.appCustomAttributes.showRememberMe,
+                    selectRememberMe: dawConfig.appCustomAttributes.rememberMeChecked,
+                    createLink: dawConfig.appCustomAttributes.showCreateLink,
+                    openAppleIDLinksInNewWindow: dawConfig.appCustomAttributes.openAppleIDLinksInNewWindow,
+                    
+                    useEyebrowTextbox: dawConfig.appCustomAttributes.enableEyebrowTextbox.toString().toUpperCase() === 'TRUE' && location.search.split('?').pop(0).split('&').indexOf('eyebrow=true') > -1
+                },
+                callbacks: {
+                    onAuthSuccess: function (data,opts) {
+                        if(typeof opts.rememberMe == 'undefined'){
+                            opts.rememberMe=false;
+                        }
+
+                        if(typeof data.grantCode !== 'undefined' ){
+                            document.getElementById('grantCode').setAttribute('value', data.grantCode);
+                        }
+
+                        document.getElementById('rememberMe').setAttribute('value', opts.rememberMe);
+                        document.getElementById('callBackForm').submit();
+                    }
+                }
+            };
+            window.AppleID.service.auth.init(initOpts);
+        };
+
+    </script>
+</div>
+
+<form id="callBackForm" name="form1" style="display:none" action="signin" method="post">
+    <input type="hidden" id="rememberMe" name="rememberMe" value="false"/>
+    <input type="hidden" id="grantCode" name="grantCode" value=""/>
+    
+        <input type="hidden" id="requestUri" name="requestUri" value="/signin"/>
+    
+    
+
+
+
+
+	<input type="hidden" id="appIdKey" name="appIdKey"
+		value="891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757" />
+
+
+<input type="hidden" id="language" name="language"
+	value="RU-RU" />
+
+
+	<input type="hidden" id="path" name="path" value="/account/resources/" />
+
+
+
+	<input type="hidden" id="rv" name="rv" value="1" />
+
+
+
+
+
+    
+
+
+
+<input type="hidden" id="scnt" name="scnt" value="4f17ba5a77e3c16eed1dd970f68a93ea" />
+</form>
+
+</body>
+
+
+    <style>
+        @media only screen and (min-device-width: 481px) {
+            .wrapper {
+                margin-bottom: -66px;
+                padding-bottom: 66px;
+            }
+        }
+
+        @media only screen and (max-device-width: 480px) {
+            .wrapper {
+                margin-bottom: -122px;
+                padding-bottom: 122px;
+            }
+        }
+    </style>
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+
+<footer lang="ru-RU" aria-labelledby="ac-gf-label" role="contentinfo" data-analytics-region="global footer"
+        class="js no-touch svg no-oldie no-ie standard-footer" id="ac-globalfooter">
+    <div class="ac-gf-content">
+        <section class="ac-gf-footer">
+
+            <div class="ac-gf-footer-locale">
+                
+
+
+
+
+            </div>
+            <div class="ac-gf-footer-legal">
+                <div class="ac-gf-footer-legal-copyright">
+                    Copyright © 2019 Apple Inc. Все права защищены.
+                </div>
+                <div class="ac-gf-footer-legal-links">
+                    <a class="ac-gf-footer-legal-link"
+                       href="http://www.apple.com/ru/privacy/privacy-policy/ "
+                       target="_blank">
+                        Политика конфиденциальности
+                    </a>
+                    <a class="ac-gf-footer-legal-link" href="http://www.apple.com/ru/legal/terms/site.html" target="_blank">
+                        Условия использования
+                    </a>
+                    
+                </div>
+            </div>
+        </section>
+    </div>
+</footer>
+
+
+
+
+</html>

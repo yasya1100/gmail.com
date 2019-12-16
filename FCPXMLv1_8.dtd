@@ -1,0 +1,799 @@
+
+<!DOCTYPE html>
+<html dir="ltr" lang="ru-RU" data-role-name="MeePortal" class="ltr home-index home js">
+<head>
+    <title>&#1059;&#1095;&#1077;&#1090;&#1085;&#1072;&#1103; &#1079;&#1072;&#1087;&#1080;&#1089;&#1100; &#1052;&#1072;&#1081;&#1082;&#1088;&#1086;&#1089;&#1086;&#1092;&#1090; | &#1044;&#1086;&#1084;&#1072;&#1096;&#1085;&#1103;&#1103; &#1089;&#1090;&#1088;&#1072;&#1085;&#1080;&#1094;&#1072;</title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+        <meta name="description" content="&quot;&#1059;&#1095;&#1077;&#1090;&#1085;&#1072;&#1103; &#1079;&#1072;&#1087;&#1080;&#1089;&#1100; &#1052;&#1072;&#1081;&#1082;&#1088;&#1086;&#1089;&#1086;&#1092;&#1090;&quot; &#1087;&#1088;&#1077;&#1076;&#1089;&#1090;&#1072;&#1074;&#1083;&#1103;&#1077;&#1090; &#1089;&#1086;&#1073;&#1086;&#1081; &#1089;&#1072;&#1081;&#1090; &#1076;&#1083;&#1103; &#1091;&#1087;&#1088;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1073;&#1077;&#1079;&#1086;&#1087;&#1072;&#1089;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102;, &#1082;&#1086;&#1085;&#1092;&#1080;&#1076;&#1077;&#1085;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1086;&#1089;&#1090;&#1100;&#1102;, &#1076;&#1072;&#1085;&#1085;&#1099;&#1084;&#1080; &#1076;&#1083;&#1103; &#1074;&#1099;&#1089;&#1090;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; &#1089;&#1095;&#1077;&#1090;&#1086;&#1074;, &#1089;&#1077;&#1084;&#1077;&#1081;&#1085;&#1099;&#1084;&#1080; &#1085;&#1072;&#1089;&#1090;&#1088;&#1086;&#1081;&#1082;&#1072;&#1084;&#1080;, &#1091;&#1089;&#1090;&#1088;&#1086;&#1081;&#1089;&#1090;&#1074;&#1072;&#1084;&#1080; &#1089; &#1054;&#1057; Windows Phone &#1076;&#1083;&#1103; &#1074;&#1072;&#1096;&#1077;&#1081; &#1091;&#1095;&#1077;&#1090;&#1085;&#1086;&#1081; &#1079;&#1072;&#1087;&#1080;&#1089;&#1080; &#1080; &#1084;&#1085;&#1086;&#1075;&#1080;&#1084; &#1076;&#1088;&#1091;&#1075;&#1080;&#1084;." />
+        <meta name="pageid" content="home-index" />
+        <meta name="awa-mee_custom10" content="HomeOneUi.1" />
+        <meta name="noAutoPageView" content="true" />
+        <meta name="awa-prdct" content="home" />
+        <meta name="awa-market" content="ru-RU" />
+        <meta name="awa-aud" content="web" />
+
+
+    <link rel="canonical" href="https://account.microsoft.com/?lang=ru-RU&amp;refd=account.live.com&amp;refp=landing&amp;mkt=RU-RU" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
+    <link rel="stylesheet" href="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/cyrillic/shell/_scrf/css/themes=default.device=uplevel_web_pc/ec-7c12d3/e8-384624/b6-34f58f/1f-2a061b/b4-7baaf4/66-04254c/dd-fa624e/63-a07f4c?ver=2.0" type="text/css" media="all" /><link rel='stylesheet' href='https://statics-marketingsites-wcus-ms-com.akamaized.net/statics/override.css?c=7' type='text/css' />
+<link href="https://mwf-service.akamaized.net/mwf/css/bundle/1.57.7/cyrillic/default/amc.min.css" rel="stylesheet"/>
+<link href="/dist/oneui.razor/public/styles/amx.min.css?v=E49CB395D91C8E0D69CC697543EE8BE64D86FD4134C230CB634DB2DBBD732D94" rel="stylesheet"/>
+    <link href="/bundles/styles/site-oneui?v=AtEs_WQPbs5mKTI5o7rRa3NhuiV1Xh-1JOZhFyT4APM1" rel="stylesheet"/>
+
+    
+    <link href="/bundles/styles/homeOneUi?v=2AHT7aJ1_IGNuF4ZESJXjVAdEkCCNY6-8Mu2e9D5UcY1" rel="stylesheet"/>
+
+
+
+
+    
+    
+<script type="text/javascript">
+
+    
+    window.onerror = function javaScriptErrorWatchdog(errorMsg, url, lineNumber) {
+        var errorMeta = document.createElement("meta");
+        errorMeta.name = "JSError";
+        errorMeta.content = "" + url + "; " + lineNumber + "; " + errorMsg;
+        document.getElementsByTagName("head")[0].appendChild(errorMeta);
+
+        return false;
+    };
+
+
+
+</script>
+
+
+    
+    <script type="text/javascript">
+        if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+            var msViewportStyle = document.createElement("style");
+            var mq = "@-ms-viewport{width:auto!important}";
+            msViewportStyle.appendChild(document.createTextNode(mq));
+            document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+        }
+    </script>
+    <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.1.min.js"></script>
+<script>(window.jQuery)||document.write('<script src="/bundles/scripts/jquery"><\/script>');</script>
+
+    <script>
+        
+        var jqueryInstance = jQuery || $;
+        jqueryInstance && jqueryInstance.ajaxPrefilter(function (s) {
+            if (s.crossDomain) {
+                s.contents.script = false;
+            }
+        });
+    </script>
+
+    
+    
+    
+
+
+    
+        <script type="text/javascript" src="//cdn.optimizely.com/js/8267663488.js"></script>
+    <script src="/bundles/scripts/experiments?v=dhMHbKozrGOgxx2MYXfMMYMDxUo0UcLjtgcfK8uL2iA1"></script>
+
+
+    
+    
+
+
+    
+    <!--[if lt IE 9]>
+    <script src="/bundles/scripts/ie8-helpers?v=U8_D9kDJrSlXzGmjWCxMbPWAvmcAOqRqmEvgMBi0BZg1"></script>
+
+    <script>
+        var elems = ('abbr,article,aside,audio,bdi,canvas,data,datalist,details,dialog,figcaption,figure,footer,header,hgroup,main,mark,meter,nav,output,picture,progress,section,summary,template,time,video').split(',');
+        for (var i = 0; i < elems.length; i++) {
+            document.createElement(elems[i]);
+        }
+    </script>
+    <![endif]-->
+
+        <base href="/" />
+</head>
+<body>
+    <div id="page-wrapper">
+        <div id="site-header">
+            
+    
+
+
+
+
+
+
+    
+
+
+    <noscript>
+            <div class="m-alert f-warning site-alert" role="alert">
+        <div>
+            <div class="c-glyph glyph-warning" aria-label="Warning message"></div>
+            <p class="c-paragraph">
+                Чтобы использовать все возможности этого веб-сайта, включите JavaScript в параметрах браузера.
+                <span class="c-group"><a class="c-action-trigger" href="https://go.microsoft.com/fwlink/p/?LinkId=616795">&#1059;&#1079;&#1085;&#1072;&#1081;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1101;&#1090;&#1086; &#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100;</a></span>
+            </p>
+        </div>
+    </div>
+
+    </noscript>
+    <div id="no-cookies">
+            <div class="m-alert f-warning site-alert" role="alert">
+        <div>
+            <div class="c-glyph glyph-warning" aria-label="Warning message"></div>
+            <p class="c-paragraph">
+                Чтобы использовать все возможности этого веб-сайта, включите файлы cookie в параметрах браузера. <a href="https://go.microsoft.com/fwlink/?LinkId=313221">&#1055;&#1088;&#1086;&#1095;&#1080;&#1090;&#1072;&#1081;&#1090;&#1077; &#1086; &#1090;&#1086;&#1084;, &#1087;&#1086;&#1095;&#1077;&#1084;&#1091; &#1080; &#1082;&#1072;&#1082; &#1084;&#1099; &#1080;&#1089;&#1087;&#1086;&#1083;&#1100;&#1079;&#1091;&#1077;&#1084; &#1092;&#1072;&#1081;&#1083;&#1099; cookie.</a>
+                <span class="c-group"><a class="c-action-trigger" href="https://go.microsoft.com/fwlink/p/?LinkId=616796">&#1059;&#1079;&#1085;&#1072;&#1081;&#1090;&#1077;, &#1082;&#1072;&#1082; &#1101;&#1090;&#1086; &#1089;&#1076;&#1077;&#1083;&#1072;&#1090;&#1100;</a></span>
+            </p>
+        </div>
+    </div>
+
+    </div>
+
+
+    <div id="sharedshell-header">
+            <div id="headerArea" class="uhf"  data-m='{"cN":"headerArea","cT":"Area_coreuiArea","id":"a1Body","sN":1,"aN":"Body"}'>
+                <div id="headerRegion"     data-region-key="headerregion" data-m='{"cN":"headerRegion","cT":"Region_coreui-region","id":"r1a1","sN":1,"aN":"a1"}' >
+
+    <div  id="headerUniversalHeader" data-m='{"cN":"headerUniversalHeader","cT":"Module_coreui-universalheader","id":"m1r1a1","sN":1,"aN":"r1a1"}'  data-module-id="Category|headerRegion|coreui-region|headerUniversalHeader|coreui-universalheader">
+        
+
+
+
+
+
+        <a id="uhfSkipToMain" class="m-skip-to-main" href="#main-content" tabindex="0" data-m='{"cN":"Skip to content_nonnav","id":"nn1m1r1a1","sN":1,"aN":"m1r1a1"}'>Перейти к основному контенту</a>
+
+
+<header class="c-uhfh context-uhf no-js c-sgl-stck c-category-header " itemscope="itemscope" data-header-footprint="/amc/amc-L0-header, fromService: True"   data-magict="true"  itemtype="http://schema.org/Organization">
+    <div class="theme-light js-global-head f-closed  global-head-cont" data-m='{"cN":"Universal Header_cont","cT":"Container","id":"c2m1r1a1","sN":2,"aN":"m1r1a1"}'>
+        <div class="c-uhfh-gcontainer-st">
+            <button type="button" class="c-action-trigger c-glyph glyph-global-nav-button" aria-label="Все от Майкрософт: разверните эту область, чтобы увидеть список продуктов и услуг Майкрософт" aria-expanded="false" data-m='{"cN":"Mobile menu button_nonnav","id":"nn1c2m1r1a1","sN":1,"aN":"c2m1r1a1"}'></button>
+            <button type="button" class="c-action-trigger c-glyph glyph-arrow-htmllegacy" aria-label="Закрыть поиск" aria-expanded="false" data-m='{"cN":"Close Search_nonnav","id":"nn2c2m1r1a1","sN":2,"aN":"c2m1r1a1"}'></button>
+                    <a id="uhfLogo" class="c-logo c-sgl-stk-uhfLogo" itemprop="url" href="https://www.microsoft.com" aria-label="Microsoft" data-m='{"cN":"GlobalNav_Logo_cont","cT":"Container","id":"c3c2m1r1a1","sN":3,"aN":"c2m1r1a1"}'>
+                        <img alt="" itemprop="logo" itemscope="itemscope" class="c-image" src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31" role="presentation" aria-hidden="true" />
+                        <span role="presentation" aria-hidden="true">Microsoft</span>
+                    </a>
+            <div class="f-mobile-title">
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-left" aria-label="Показать больше пунктов меню" data-m='{"cN":"Mobile back button_nonnav","id":"nn4c2m1r1a1","sN":4,"aN":"c2m1r1a1"}'></button>
+                <span data-global-title="Домашняя страница Майкрософт" class="js-mobile-title">Учетная запись</span>
+                <button type="button" class="c-action-trigger c-glyph glyph-chevron-right" aria-label="Показать больше пунктов меню" data-m='{"cN":"Mobile forward button_nonnav","id":"nn5c2m1r1a1","sN":5,"aN":"c2m1r1a1"}'></button>
+            </div>
+                    <div class="c-show-pipe x-hidden-vp-mobile-st">
+                        <a id="uhfCatLogo" class="c-logo c-cat-logo" href="https://account.microsoft.com" aria-label="Учетная запись" itemprop="url" data-m='{"cN":"CatNav_Учетная запись_nav","id":"n6c2m1r1a1","sN":6,"aN":"c2m1r1a1"}'>
+                                <span>Учетная запись</span>
+                        </a>
+                    </div>
+                <div class="cat-logo-button-cont x-hidden">
+                        <button type="button" id="uhfCatLogoButton" class="c-cat-logo-button x-hidden" aria-expanded="false" aria-label="Учетная запись" data-m='{"cN":"Учетная запись_nonnav","id":"nn7c2m1r1a1","sN":7,"aN":"c2m1r1a1"}'>
+                            Учетная запись
+                        </button>
+                </div>
+
+
+
+                    <nav id="uhf-g-nav" aria-label="Contextual menu" class="c-uhfh-gnav" data-m='{"cN":"Category nav_cont","cT":"Container","id":"c8c2m1r1a1","sN":8,"aN":"c2m1r1a1"}'>
+            <ul class="js-paddle-items">
+                    <li class="single-link js-nav-menu x-hidden-none-mobile-vp uhf-menu-item">
+                        <a class="c-uhf-nav-link" href="https://account.microsoft.com" data-m='{"cN":"CatNav_Главная_nav","id":"n1c8c2m1r1a1","sN":1,"aN":"c8c2m1r1a1"}' > Главная </a>
+                    </li>
+                                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="sharedshell-profile" class="c-uhf-nav-link" href="/profile" data-m='{"cN":"CatNav_sharedshell-yourinfo_nav","id":"n2c8c2m1r1a1","sN":2,"aN":"c8c2m1r1a1"}'>Сведения</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="sharedshell-privacy" class="c-uhf-nav-link" href="/privacy" data-m='{"cN":"CatNav_privacy_nav","id":"n3c8c2m1r1a1","sN":3,"aN":"c8c2m1r1a1"}'>Конфиденциальность</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="sharedshell-security" class="c-uhf-nav-link" href="/security" data-m='{"cN":"CatNav_security_nav","id":"n4c8c2m1r1a1","sN":4,"aN":"c8c2m1r1a1"}'>Безопасность</a>
+                        </li>
+                        <li class="nested-menu uhf-menu-item">
+                            <div class="c-uhf-menu js-nav-menu">
+                                <button type="button" id="pb-main"  aria-expanded="false" data-m='{"cN":"CatNav_billing_nonnav","id":"nn5c8c2m1r1a1","sN":5,"aN":"c8c2m1r1a1"}'>Оплата и выставление счетов</button>
+
+                                <ul class="" data-class-idn="" aria-hidden="true" data-m='{"cN":"billing_cont","cT":"Container","id":"c6c8c2m1r1a1","sN":6,"aN":"c8c2m1r1a1"}'>
+        <li class="js-nav-menu single-link" data-m='{"cN":"billing-overview_cont","cT":"Container","id":"c1c6c8c2m1r1a1","sN":1,"aN":"c6c8c2m1r1a1"}'>
+            <a id="pb-orders" class="js-subm-uhf-nav-link" href="/billing/orders" data-m='{"cN":"CatNav_billing-overview_nav","id":"n1c1c6c8c2m1r1a1","sN":1,"aN":"c1c6c8c2m1r1a1"}'>Журнал покупок</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"billing-paymentoptions_cont","cT":"Container","id":"c2c6c8c2m1r1a1","sN":2,"aN":"c6c8c2m1r1a1"}'>
+            <a id="pb-pi" class="js-subm-uhf-nav-link" href="/billing/payments" data-m='{"cN":"CatNav_billing-paymentoptions_nav","id":"n1c2c6c8c2m1r1a1","sN":1,"aN":"c2c6c8c2m1r1a1"}'>Способы оплаты</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"billing-shippingaddress_cont","cT":"Container","id":"c3c6c8c2m1r1a1","sN":3,"aN":"c6c8c2m1r1a1"}'>
+            <a id="pb-shipping" class="js-subm-uhf-nav-link" href="/billing/addresses" data-m='{"cN":"CatNav_billing-shippingaddress_nav","id":"n1c3c6c8c2m1r1a1","sN":1,"aN":"c3c6c8c2m1r1a1"}'>Адресная книга</a>
+            
+        </li>
+        <li class="js-nav-menu single-link" data-m='{"cN":"billing-billinghelp_cont","cT":"Container","id":"c4c6c8c2m1r1a1","sN":4,"aN":"c6c8c2m1r1a1"}'>
+            <a id="pb-help" class="js-subm-uhf-nav-link" href="https://go.microsoft.com/fwlink/p/?LinkID=623991" data-m='{"cN":"CatNav_billing-billinghelp_nav","id":"n1c4c6c8c2m1r1a1","sN":1,"aN":"c4c6c8c2m1r1a1"}'>Справка по выставлению счетов</a>
+            
+        </li>
+                                                    
+                                </ul>
+                            </div>
+                        </li>                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="sharedshell-services" class="c-uhf-nav-link" href="/services" data-m='{"cN":"CatNav_services_nav","id":"n7c8c2m1r1a1","sN":7,"aN":"c8c2m1r1a1"}'>Службы и подписки</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="sharedshell-devices" class="c-uhf-nav-link" href="/devices" data-m='{"cN":"CatNav_devices_nav","id":"n8c8c2m1r1a1","sN":8,"aN":"c8c2m1r1a1"}'>Устройства</a>
+                        </li>
+                        <li class="single-link js-nav-menu uhf-menu-item">
+                            <a id="sharedshell-family" class="c-uhf-nav-link" href="/family" data-m='{"cN":"CatNav_family_nav","id":"n9c8c2m1r1a1","sN":9,"aN":"c8c2m1r1a1"}'>Семья</a>
+                        </li>
+
+
+                <li id="overflow-menu" class="overflow-menu x-hidden uhf-menu-item">
+                        <div class="c-uhf-menu js-nav-menu">
+        <button data-m='{"pid":"Больше","id":"nn10c8c2m1r1a1","sN":10,"aN":"c8c2m1r1a1"}' type="button" aria-label="Больше" aria-expanded="false">Больше</button>
+        <ul id="overflow-menu-list" aria-hidden="true" class="overflow-menu-list">
+        </ul>
+    </div>
+
+                </li>
+                            </ul>
+            
+        </nav>
+
+
+            <div class="c-uhfh-actions" data-m='{"cN":"Header actions_cont","cT":"Container","id":"c9c2m1r1a1","sN":9,"aN":"c2m1r1a1"}'>
+                <div class="wf-menu"></div>
+                            <form class="c-search" autocomplete="off" id="searchForm" name="searchForm" role="search" action="//www.microsoft.com/ru-ru/search/result.aspx" method="GET" data-seAutoSuggest='{"queryParams":{"market":"ru-ru","clientId":"7F27B536-CF6B-4C65-8638-A0F8CBDFCA65","sources":"Microsoft-Terms,Iris-Products,DCatAll-Products","filter":"+ClientType:StoreWeb","counts":"5,1,5"},"familyNames":{"Apps":"Приложение","Books":"Книга","Bundles":"Пакет","Devices":"Устройство","Fees":"Fee","Games":"Игра","MusicAlbums":"Альбом","MusicTracks":"Композиция","MusicVideos":"Видео","MusicArtists":"Исполнитель","OperatingSystem":"Операционная система","Software":"Программное обеспечение","Movies":"Фильм","TV":"ТВ","CSV":"Карта оплаты","VideoActor":"Актер"}}' data-seautosuggestapi="https://www.microsoft.com/services/api/v3/suggest" data-m='{"cN":"GlobalNav_Search_cont","cT":"Container","id":"c1c9c2m1r1a1","sN":1,"aN":"c9c2m1r1a1"}' aria-expanded="false">
+                                <input id="cli_shellHeaderSearchInput" aria-label="search expanded" aria-autocomplete="list" aria-controls="universal-header-search-auto-suggest-transparent" aria-owns="universal-header-search-auto-suggest-ul" type="search" name="q" placeholder="Поиск Microsoft.com" data-m='{"cN":"SearchBox_nav","id":"n1c1c9c2m1r1a1","sN":1,"aN":"c1c9c2m1r1a1"}' />
+                                    <button id="search" aria-label="Поиск Microsoft.com" class="c-glyph" data-m='{"cN":"Search_nav","id":"n2c1c9c2m1r1a1","sN":2,"aN":"c1c9c2m1r1a1"}' data-bi-dnt="true" data-bi-mto="true" aria-expanded="false">
+                                        <span role="presentation">Поиск</span>
+                                        <span role="tooltip" class="tooltip search-tooltip">Поиск Microsoft.com</span>
+                                    </button>
+                                <div class="m-auto-suggest" id="universal-header-search-auto-suggest-transparent" role="group">
+                                    <ul class="c-menu" id="universal-header-search-auto-suggest-ul" aria-hidden="true" data-bi-dnt="true" data-bi-mto="true" data-js-auto-suggest-position="default" role="listbox" data-tel="jsll" data-m='{"cN":"search suggestions_cont","cT":"Container","id":"c3c1c9c2m1r1a1","sN":3,"aN":"c1c9c2m1r1a1"}'></ul>
+                                </div>
+                                
+                            </form>
+                        <button data-m='{"cN":"cancel-search","pid":"Cancel Search","id":"nn2c9c2m1r1a1","sN":2,"aN":"c9c2m1r1a1"}' id="cancel-search" class="cancel-search" aria-label="Cancel Search">
+                            <span>Отмена</span>
+                        </button>
+                    <a id="uhf-shopping-cart"
+                       aria-label="0 товары в корзине"
+                       class="c-action-trigger c-glyph c-uhf-nav-link glyph-shopping-cart"
+                       href="https://www.microsoft.com/ru-ru/store/buy"
+                       data-src-dmn-chk="true"
+                       data-m='{"cN":"GlobalNav_Cart_nav","bhvr":82,"id":"n3c9c2m1r1a1","sN":3,"aN":"c9c2m1r1a1"}'>
+                        <span class="shopping-cart-amount x-hidden" aria-hidden="true">0</span>
+                        <span class="c-cart-lbl c-st-lbl">Корзина</span>
+                        <span class="tooltip" role="tooltip">0 товары в корзине</span>
+                    </a>
+                            <iframe id="shell-cart-count" data-src="//www.microsoft.com/store/buy/cartcount"></iframe>
+                        <div id="meControl" class="c-me"  data-signinsettings='{"containerId":"meControl","enabled":true,"headerHeight":48,"debug":false,"extensibleLinks":[],"userData":{"idp":"msa","firstName":"","lastName":"","memberName":"","cid":"","authenticatedState":"3"},"rpData":{"preferredIdp":"msa","msaInfo":{"signInUrl":"/auth/complete-signin","signOutUrl":"","meUrl":"https://login.live.com/me.srf?wa=wsignin1.0"},"aadInfo":{"signOutUrl":"","appId":"","siteUrl":"","blockMsaFed":true}}}' data-m='{"cN":"GlobalNav_Account_cont","cT":"Container","id":"c4c9c2m1r1a1","sN":4,"aN":"c9c2m1r1a1"}'>
+                            <div class="msame_Header">
+                                <div class="msame_Header_name st_msame_placeholder">Войти</div>
+                            </div>
+                            
+                        </div>
+                
+            </div>
+        </div>
+        
+        
+    </div>
+    
+</header>
+
+
+
+
+    </div>
+        </div>
+
+    </div>
+
+    </div>
+
+        </div>
+        <div tabindex="-1" id="main-content-landing">
+            
+
+
+
+
+
+
+
+
+
+
+<main id="home-index" data-grid="" class="content-container context-amc home-container" role="main">
+    
+
+
+
+
+
+
+<input name="__RequestVerificationToken" type="hidden" value="lLLQ1HUHhUlxws7KamHagok5U-JUBUNx6X5WkVjqunznE0Wiiopy76Mahuy0mgAADS9PNtvL4V0lDoZRPlZMDjrqnXRw4gZk2Znh2iaD92g1:LOgv8Nnr3DXghHOUHHVdyLUwkDrlKeWC-q3Xo_yZBeBDBESW9ET4Jb7nyOS_zpx44wKjXPQPIsKQELWVqQ2aZngBAKw7zOMWiGo5e2K8hjRZ4xELFtv8BF1JNfGDJ8DP0" />
+
+<div id="home-app-host" data-grid="col-12" ng-app="homeModule">
+
+    <mee-modal-dialog-host data-modal-id="home-dialog" data-kind="flow close-button"></mee-modal-dialog-host>
+
+    <div data-ui-view></div>
+</div>
+
+</main>
+
+        </div>
+
+        
+
+
+<div class="help-footer" data-grid="container pad-12x">
+    <div data-grid="col-12">
+        <h2 class="c-heading-5">&#1057;&#1087;&#1088;&#1072;&#1074;&#1082;&#1072; &#1087;&#1086; &#1091;&#1095;&#1077;&#1090;&#1085;&#1086;&#1081; &#1079;&#1072;&#1087;&#1080;&#1089;&#1080; &#1052;&#1072;&#1081;&#1082;&#1088;&#1086;&#1089;&#1086;&#1092;&#1090;</h2><hr class="c-divider f-pad-vertical-3x"><ul class="c-list f-bare" ><li><a id="help-links-msa-info" class="c-hyperlink" href="http://go.microsoft.com/fwlink/p/?linkid=623971&amp;clcid=419"  target="_blank">&#1063;&#1090;&#1086; &#1090;&#1072;&#1082;&#1086;&#1077; &#1091;&#1095;&#1077;&#1090;&#1085;&#1072;&#1103; &#1079;&#1072;&#1087;&#1080;&#1089;&#1100; &#1052;&#1072;&#1081;&#1082;&#1088;&#1086;&#1089;&#1086;&#1092;&#1090;?</a></li><li><a id="help-links-login" class="c-hyperlink" href="http://go.microsoft.com/fwlink/p/?linkid=623972&amp;clcid=419"  target="_blank">&#1057;&#1087;&#1088;&#1072;&#1074;&#1082;&#1072; &#1087;&#1088;&#1080; &#1087;&#1088;&#1086;&#1073;&#1083;&#1077;&#1084;&#1072;&#1093; &#1089; &#1074;&#1093;&#1086;&#1076;&#1086;&#1084;</a></li><li><a id="help-links-reset-password" class="c-hyperlink" href="http://go.microsoft.com/fwlink/p/?linkid=623973&amp;clcid=419"  target="_blank">&#1057;&#1073;&#1088;&#1086;&#1089; &#1087;&#1072;&#1088;&#1086;&#1083;&#1103;</a></li><li><a id="help-links-accessibility" class="c-hyperlink" href="http://go.microsoft.com/fwlink/p/?linkid=623974&amp;clcid=419"  target="_blank">&#1057;&#1087;&#1077;&#1094;&#1080;&#1072;&#1083;&#1100;&#1085;&#1099;&#1077; &#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#1080; &#1076;&#1083;&#1103; &#1101;&#1090;&#1086;&#1075;&#1086; &#1089;&#1072;&#1081;&#1090;&#1072;</a></li><li><a id="help-links-setup-device" class="c-hyperlink" href="http://go.microsoft.com/fwlink/p/?LinkId=624983&amp;clcid=419"  target="_blank">&#1053;&#1072;&#1089;&#1090;&#1088;&#1086;&#1081;&#1082;&#1072; &#1091;&#1095;&#1077;&#1090;&#1085;&#1086;&#1081; &#1079;&#1072;&#1087;&#1080;&#1089;&#1080; &#1052;&#1072;&#1081;&#1082;&#1088;&#1086;&#1089;&#1086;&#1092;&#1090; &#1085;&#1072; &#1074;&#1089;&#1077;&#1093; &#1091;&#1089;&#1090;&#1088;&#1086;&#1081;&#1089;&#1090;&#1074;&#1072;&#1093;</a></li><li><a id="help-links-more-help-topics" class="c-hyperlink" href="https://go.microsoft.com/fwlink/p/?linkid=623975&amp;clcid=419"  target="_blank">&#1044;&#1086;&#1087;&#1086;&#1083;&#1085;&#1080;&#1090;&#1077;&#1083;&#1100;&#1085;&#1072;&#1103; &#1089;&#1087;&#1088;&#1072;&#1074;&#1082;&#1072; &#1087;&#1086; &#1091;&#1095;&#1077;&#1090;&#1085;&#1086;&#1081; &#1079;&#1072;&#1087;&#1080;&#1089;&#1080; &#1052;&#1072;&#1081;&#1082;&#1088;&#1086;&#1089;&#1086;&#1092;&#1090;</a></li></ul>
+    </div>
+</div>
+
+    </div>
+    <div id="site-footer">
+        
+
+    <div id="footerArea" class="uhf"  data-m='{"cN":"footerArea","cT":"Area_coreuiArea","id":"a2Body","sN":2,"aN":"Body"}'>
+                <div id="footerRegion"     data-region-key="footerregion" data-m='{"cN":"footerRegion","cT":"Region_coreui-region","id":"r1a2","sN":1,"aN":"a2"}' >
+
+    <div  id="footerUniversalFooter" data-m='{"cN":"footerUniversalFooter","cT":"Module_coreui-universalfooter","id":"m1r1a2","sN":1,"aN":"r1a2"}'  data-module-id="Category|footerRegion|coreui-region|footerUniversalFooter|coreui-universalfooter">
+        
+
+
+
+<footer id="uhf-footer" class="c-uhff context-uhf"  data-uhf-mscc-rq="false" data-footer-footprint="/amc/amc-L0-footer, fromService: True" data-m='{"cN":"Uhf footer_cont","cT":"Container","id":"c1m1r1a2","sN":1,"aN":"m1r1a2"}'>
+    <div class="c-uhff-base">
+                <a id="locale-picker-link" aria-label="Селектор языка содержимого. Сейчас задан этот язык: Русский (Россия)" class="c-uhff-link c-uhff-lang-selector c-glyph glyph-world" href="/languages?lang=ru-ru" data-m='{"cN":"locale_picker(RU)_nav","id":"n1c1m1r1a2","sN":1,"aN":"c1m1r1a2"}'>Русский (Россия)</a>
+
+        <nav aria-label="Корпоративные ссылки Майкрософт">
+            <ul class="c-list f-bare" data-m='{"cN":"Corp links_cont","cT":"Container","id":"c2c1m1r1a2","sN":2,"aN":"c1m1r1a2"}'>
+                                <li>
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=521839" data-mscc-ic="false" data-m='{"cN":"footer-privacycookies_nav","id":"n1c2c1m1r1a2","sN":1,"aN":"c2c1m1r1a2"}'>Конфиденциальность и файлы cookie</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://go.microsoft.com/fwlink/?LinkID=530144&amp;clcid={CLCID_HEX}" data-mscc-ic="false" data-m='{"cN":"footer-terms_nav","id":"n2c2c1m1r1a2","sN":2,"aN":"c2c1m1r1a2"}'>Условия использования</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="https://support.microsoft.com/contactus" data-mscc-ic="false" data-m='{"cN":"footer-contactus_nav","id":"n3c2c1m1r1a2","sN":3,"aN":"c2c1m1r1a2"}'>Контактная информация</a>
+                </li>
+                <li>
+                    <a class="c-uhff-link" href="javascript:MeePortal.Feedback.control.show()" data-mscc-ic="false" data-m='{"cN":"feedback-button_nav","id":"n4c2c1m1r1a2","sN":4,"aN":"c2c1m1r1a2"}'>Обратная связь</a>
+                </li>
+
+                <li>&#169; Microsoft 2019</li>
+                
+            </ul>
+        </nav>
+    </div>
+    
+</footer>
+
+
+
+
+    </div>
+        </div>
+
+    </div>
+
+
+    </div>
+
+    
+    
+
+
+
+
+<script src="/bundles/scripts/webi?v=d0FYSeDE6pK-yxeF2XWfUnlJdGygY1t5Ue_nDgqgENQ1"></script>
+
+<script type="text/javascript" id="portal-telemetry">
+    (function bootstrapPortalTelemetry() {
+        //  NOTE: MUID sync is always disabled.
+
+        var jsllOptions = {
+            appId: "account.microsoft.com",
+            environment: "Prod",
+            isUserSignedIn: true,
+            performMuidSync: false,
+            allowClickTracking: true,
+            allowScrollTracking: false,
+            isDiagnosticsLoggingEnabled: false,
+            runExperiment: true,
+            allowPartialPageViewLogging: true,
+            eventBatchingMode: 1 /* wait for first pageView */
+        };
+
+        var providerOptions = {
+            allowAutoPageView: true,
+            market: "RU",
+            language: "ru-RU",
+            flights: ["altamonikertranslator","bill3dsupdatepay","billaddredit","billordoneui","billtaxdocument","cpauthrefresh","dvcappdevicesrefresh","dvccoldstartrepair","dvccoverage","dvcdetailrefresh","dvcdisclaimfamily","dvcfmdredesign","dvcfmdrefresh","dvchideinactivedevices","dvcrefresh","expseccard","famaapauth","famallowhistory","famapplimits","famapplimitsandroid","famapplimitsbeta2","famapplimitsnewdesc","famapplimitssurvey","famapplimitswebblocking","famapplimitszerominutes","famarlauncher","famasktobuy","famauthpuid","fambrowserblock","famchildlandingstringupdate","famcvvfcfix","famdevicenotify","famfindyourchildoneui","famfunddisableexcookie","famfundenableerror","famhip","faminterstaddlocation","famlandingirisfeature","famlauncherbanner","famlaunchernotifications","famnopurchase","famonapiadd","famoneschedule","famparentalconsentauth","famparentalconsentwindows","famparentalinappflow","famparentmkt","fampcfre","fampcregioncsv","famplaytime","famrequiresave","famsecondarycodeadd","famshowcsv","famsmsadd","famstatageperm","famstrt","famvaluebanner","famxboxst","gamcckemngr","gbrwssprt","gfeedbackv2","gjsonnet","globalhelplinks","globaloptimizely","guhfonerf","gwindowsinsider","gxbox360brwssprt","homebillingoneyear","homeirisfeaturecomponent","homenewanimations","homesubcard","homesubcardiris","privadminor","privobo","privtestapiaccess","privtmlnwarmup","privupdateuserinterestsqosfix","privusrsegments","privusrsegmentssignedout","procaptcha","prochk","proiwunsub","prommxphone","rewardsbadgeshare","rewardscatalogcontrolpanel","rewardsdashboardmobileviewmode","rewardspromocode","rewardsredeem","rewardsredeemcatalogangular","rxfamily","rxirisenroll","rxrebatesalldeals","svc3dschangepay","svc3dsenableautorenew","svc3dspaynow","svc3dsrenew","svc3dsrenwithpi","svc3dsupsku","svcbanner","svccurrency","svcgroupperpetuals","svcoffsave","svcoprodkey","svcpsd2xautorenew","svcpsd2xchangepay","svcpsd2xchangepayaddpi","svcpsd2xpaynow","svcrecswtchpln","svcrectknrnw","svcrussia","svcrussiacs","svcruxbox","svcruxboxcs","svcsurvey","svcxultimate","svcxultimatetokens","svcxviewmngbtn"]
+        };
+
+        MeePortal.Telemetry.initializePortalTelemetry({
+            providerOptions: providerOptions,
+            jsllOptions: jsllOptions,
+            portalAreaName: "home",
+            queryStringParametersBlockList: ["assetId","BirthDay","BirthMonth","BirthYear","brokenChildId","childId","childPuid","cid","Country","email","FirstName","Gender","iAltEmail","id","invitationToken","LastName","memberId","memberIdList","MemberName","onBehalfOfPuid","Password","PhoneCountry","PhoneNumber","puid","puids","RetypePassword","slt","t","token","userId","username","ConnectionToken","Phone","rawPhoneNumber","childsPuid","childsPuidList","mstoken","cip","childCid","ipt","e"]
+        });
+    })();
+</script>
+
+    <script id="site-layout-config" type="text/javascript">
+        var MeePortal = MeePortal || {};
+        MeePortal.Utilities = MeePortal.Utilities || {};
+        MeePortal.SearchSuggestion = MeePortal.SearchSuggestion || {};
+
+        
+        MeePortal.g_userFlights = ["altamonikertranslator","bill3dsupdatepay","billaddredit","billordoneui","billtaxdocument","cpauthrefresh","dvcappdevicesrefresh","dvccoldstartrepair","dvccoverage","dvcdetailrefresh","dvcdisclaimfamily","dvcfmdredesign","dvcfmdrefresh","dvchideinactivedevices","dvcrefresh","expseccard","famaapauth","famallowhistory","famapplimits","famapplimitsandroid","famapplimitsbeta2","famapplimitsnewdesc","famapplimitssurvey","famapplimitswebblocking","famapplimitszerominutes","famarlauncher","famasktobuy","famauthpuid","fambrowserblock","famchildlandingstringupdate","famcvvfcfix","famdevicenotify","famfindyourchildoneui","famfunddisableexcookie","famfundenableerror","famhip","faminterstaddlocation","famlandingirisfeature","famlauncherbanner","famlaunchernotifications","famnopurchase","famonapiadd","famoneschedule","famparentalconsentauth","famparentalconsentwindows","famparentalinappflow","famparentmkt","fampcfre","fampcregioncsv","famplaytime","famrequiresave","famsecondarycodeadd","famshowcsv","famsmsadd","famstatageperm","famstrt","famvaluebanner","famxboxst","gamcckemngr","gbrwssprt","gfeedbackv2","gjsonnet","globalhelplinks","globaloptimizely","guhfonerf","gwindowsinsider","gxbox360brwssprt","homebillingoneyear","homeirisfeaturecomponent","homenewanimations","homesubcard","homesubcardiris","privadminor","privobo","privtestapiaccess","privtmlnwarmup","privupdateuserinterestsqosfix","privusrsegments","privusrsegmentssignedout","procaptcha","prochk","proiwunsub","prommxphone","rewardsbadgeshare","rewardscatalogcontrolpanel","rewardsdashboardmobileviewmode","rewardspromocode","rewardsredeem","rewardsredeemcatalogangular","rxfamily","rxirisenroll","rxrebatesalldeals","svc3dschangepay","svc3dsenableautorenew","svc3dspaynow","svc3dsrenew","svc3dsrenwithpi","svc3dsupsku","svcbanner","svccurrency","svcgroupperpetuals","svcoffsave","svcoprodkey","svcpsd2xautorenew","svcpsd2xchangepay","svcpsd2xchangepayaddpi","svcpsd2xpaynow","svcrecswtchpln","svcrectknrnw","svcrussia","svcrussiacs","svcruxbox","svcruxboxcs","svcsurvey","svcxultimate","svcxultimatetokens","svcxviewmngbtn"];
+
+        
+        MeePortal.Utilities.EmailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+
+        MeePortal.SearchSuggestion.Config = {
+            'Url': 'https\x3a\x2f\x2fwww.microsoft.com\x2fservices\x2fapi\x2fv2\x2fsuggest',
+            'ClientId': '1A3B4873-9046-4833-982A-65FAE59682B8',
+            'ProductCount': 3,
+        };
+    </script>
+    <script src="/bundles/scripts/site?v=tzMBksPORaO8KKzE6o8pEJl1QfUav39JYPtYeyd8xI01"></script>
+        
+    
+    
+
+    
+<script src="https://mwf-service.akamaized.net/mwf/js/bundle/1.57.7/mwf-main.umd.min.js"></script>
+<script>(window.mwf)||document.write('<script src="/dist/oneui.razor/public/scripts/mwf-main.umd.1.57.7.js"><\/script>');</script>
+<script src="/dist/oneui.razor/public/scripts/amx.min.js?v=B51B71CD1157AD7895177C07B006CB93F95CE755838286D2A7F725330B3E2467"></script>
+    <script src="https://www.microsoft.com/onerfstatics/marketingsites-wcus-prod/shell/_scrf/js/themes=default/54-af9f9f/c0-247156/de-099401/e1-a50eee/e7-954872/d8-97d509/f0-251fe2/46-be1318/77-04a268/11-240c7b/63-077520/a4-34de62/1b-c96630/db-bc0148/dc-7e9864/78-4c7d22/38-74a735/16-4c1a9d/cd-23d3b0/6d-1e7ed0/b7-cadaa7/ca-40b7b0/4e-ee3a55/3e-f5c39b/c3-6454d7/f9-7592d3/92-10345d/79-499886/7e-cda2d3/62-95a6e7/93-283c2d/e0-3c9860/91-97a04f/1f-100dea/33-abe4df/d6-c4d640?ver=2.0&iife=1"></script><script src="https://mem.gfx.ms/meversion?partner=amc&market=ru-ru&uhf=1" defer></script>    <script type="text/javascript">
+        if (window.msCommonShell) {
+            MeePortal.Telemetry.reportScriptLoaded("UHF", true);
+        } else {
+            MeePortal.Telemetry.reportScriptLoaded("UHF", false);
+        }
+    </script>
+    <script type="text/javascript">
+        if (window.mwf) {
+            MeePortal.Telemetry.reportScriptLoaded("MWF", true);
+        } else {
+            MeePortal.Telemetry.reportScriptLoaded("MWF", false);
+        }
+    </script>
+
+    
+
+<script id="shared-shell-init" type="text/javascript">
+    (function () {
+        var myShellOptions = {
+            meControlOptions: {
+                apiGeneration: 'GEN2',
+                authProviderConfig: {
+                    type: 'webMsaOnly',
+                    appSignInUrl: 'https\x3a\x2f\x2flogin.live.com\x2flogin.srf\x3fwa\x3dwsignin1.0\x26rpsnv\x3d13\x26ct\x3d1576501477\x26rver\x3d7.0.6738.0\x26wp\x3dMBI_SSL\x26wreply\x3dhttps\x3a\x252F\x252Faccount.microsoft.com\x252Fauth\x252Fcomplete-signin\x253Fru\x253Dhttps\x25253A\x25252F\x25252Faccount.microsoft.com\x25252F\x25253Flang\x25253Dru-RU\x252526refd\x25253Daccount.live.com\x252526refp\x25253Dlanding\x252526mkt\x25253DRU-RU\x26lc\x3d1049\x26id\x3d292666\x26lw\x3d1\x26fl\x3deasi2',
+                    appSignInToUrl: '\x2fauth\x2fsign-in-to',
+                    appSignOutUrl: 'https\x3a\x2f\x2flogin.live.com\x2flogout.srf\x3fct\x3d1576501478\x26rver\x3d7.0.6738.0\x26lc\x3d1049\x26id\x3d292666\x26ru\x3dhttps\x3a\x252F\x252Faccount.microsoft.com\x252Fauth\x252Fcomplete-signout\x253Fru\x253Dhttps\x25253A\x25252F\x25252Faccount.microsoft.com\x25252F\x25253Flang\x25253Dru-RU\x252526refd\x25253Daccount.live.com\x252526refp\x25253Dlanding\x252526mkt\x25253DRU-RU',
+                    appSwitchUrl: 'https\x3a\x2f\x2flogin.live.com\x2flogout.srf\x3fct\x3d1576501478\x26rver\x3d7.0.6738.0\x26lc\x3d1049\x26id\x3d292666\x26ru\x3dhttps\x3a\x252F\x252Flogin.live.com\x252Flogin.srf\x253Fwa\x253Dwsignin1.0\x2526rpsnv\x253D13\x2526ct\x253D1576501477\x2526rver\x253D7.0.6738.0\x2526wp\x253DMBI_SSL\x2526wreply\x253Dhttps\x3a\x25252F\x25252Faccount.microsoft.com\x25252Fauth\x25252Fcomplete-signin\x25253Fru\x25253Dhttps\x2525253A\x2525252F\x2525252Faccount.microsoft.com\x2525252F\x2525253Flang\x2525253Dru-RU\x25252526refd\x2525253Daccount.live.com\x25252526refp\x2525253Dlanding\x25252526mkt\x2525253DRU-RU\x2526lc\x253D1049\x2526id\x253D292666\x2526lw\x253D1\x2526fl\x253Deasi2',
+                    msa: {
+                        signOutAndForgetUrl: 'https\x3a\x2f\x2flogin.live.com\x2flogout.srf\x3fct\x3d1576501478\x26rver\x3d7.0.6738.0\x26lc\x3d1049\x26id\x3d292666\x26ru\x3dhttps\x3a\x252F\x252Faccount.microsoft.com\x252Fauth\x252Fcomplete-signout\x253Fru\x253Dhttps\x25253A\x25252F\x25252Faccount.microsoft.com\x25252F\x25253Flang\x25253Dru-RU\x252526refd\x25253Daccount.live.com\x252526refp\x25253Dlanding\x252526mkt\x25253DRU-RU',
+                        rememberedAccountsUrl: 'https\x3a\x2f\x2flogin.live.com\x2fMe.srf\x3fwa\x3dwsignin1.0\x26rpsnv\x3d13\x26ct\x3d1576501477\x26rver\x3d7.0.6738.0\x26wp\x3dMBI_SSL\x26wreply\x3dhttps\x3a\x252F\x252Faccount.microsoft.com\x252Fauth\x252Fcomplete-signin\x26lc\x3d1049\x26id\x3d292666'
+                    }
+                },
+                    
+                    currentAccount: {
+                        type: 'msa',
+                        authenticatedState: 'signedIn',
+                        memberName: '\x2b380 95 255 6400',
+                        firstName: '\u041c\u0430\u043a\u0441',
+                        lastName: '\u041c\u0430\u043a\u0441',
+                        cid: '4026229b134ed01a'
+                    }
+                    
+                },
+            events:
+            {
+                onEventLog: MeePortal.SiteLayout.UhfEventLogCallback
+            },
+            currentMenuItemId: 'sharedshell-home'
+        };
+
+        function setShellOptions(shellOptions){
+            if (window.msCommonShell) {
+                window.msCommonShell.load(shellOptions);
+            }
+            else {
+                window.onShellReadyToLoad = function () {
+                    window.onShellReadyToLoad = null;
+                    setShellOptions(shellOptions);
+                };
+            }
+        }
+
+        setShellOptions(myShellOptions);
+    })();
+</script>
+
+    <script type="text/javascript">
+        if (window.MeControl) {
+            MeePortal.Telemetry.reportScriptLoaded("MeControl", true);
+        } else {
+            MeePortal.Telemetry.reportScriptLoaded("MeControl", false);
+        }
+    </script>
+
+
+    
+<script type="text/javascript">
+
+    (function() {
+        // scenario measurement: user sends feedback!
+        var userInitiatedFeedback;
+
+        function initFeedback() {
+            
+            // register feedback event schema via jsll._registerSchema
+            window.portalQos.registerRawEventSchemas
+            ([
+                {
+                    name: 'Ms.Webi.MeePortal.UserFeedback',
+                    'Ms.Webi.MeePortal.UserFeedback':
+                    {
+                        part: 'C',
+                        def:
+                        {
+                            fields:
+                            [
+                                {
+                                    req: true,
+                                    name: 'feedback_activityId',
+                                    type: 'string'
+                                },
+                                {
+                                    name: 'feedback_pageid',
+                                    type: 'string'
+                                },
+                                {
+                                    name: 'feedback_message',
+                                    type: 'string'
+                                },
+                                {
+                                    name: 'feedback_propbag',
+                                    type: 'string'
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]);
+
+            $.portalAjaxGet({
+                serviceName: "Feedback",
+                operationName: "Feedback_GetStrings",
+                url: '/feedback',
+                contentType: "application/json",
+            })
+            .done(function (data) {
+                // Initialize feedback control 
+                MeePortal.Feedback.control.init({
+                    id: 'Ms.Webi.MeePortal.UserFeedback',
+                    activityid: '439RvIn6SEKR1Od9.4.7',
+                    jquery: $,
+                    feedbackFormStrings: data,
+                    onSendFeedback: sendFeedback,
+                    onSendTelemetry: sendTelemetry
+                });
+            });
+
+        }
+        
+        function sendTelemetry(data) {
+
+            if (data.eventType == 'qos') {
+
+                switch (data.actionId) {
+
+                    case 'FeedbackInitializationFail':
+                    case 'FeedbackRenderingFail':
+                    var httpStatusCode = data.qosEvent.successStatus ? 200 : 500;
+
+                    window.portalQos.reportOutgoingApi({
+                        isSuccess: data.qosEvent.successStatus,
+                        latencyMs: data.qosEvent.duration,
+                        requestUri: window.document.location.href,
+                        serviceName: 'Feedback',
+                        serviceType: 'Ms.Webi.MeePortal.UserFeedback',
+                        operationName: data.actionId,
+                        currentOperationName: 'Feedback',
+                        httpMethod: 'GET',
+                        contentType: 'text/javascript',
+                        serviceErrorCode: httpStatusCode,
+                        errorMessage: data.qosEvent.successStatus ? '' : data.message,
+                        httpStatusCode: httpStatusCode.toString()
+                    });
+
+                    break;
+                }
+            } else if (data.eventType == 'bici') {
+
+                switch (data.actionId) {
+
+                    // scenario to measure how many users click feedback
+                case 'FeedbackStart':
+                    userInitiatedFeedback = window.portalScenarios.beginScenario("Global", "UserInitiatedFeedback");
+                    break;
+
+                // scenario to measure how many users click cancel
+                case 'FeedbackCancel':
+                    window.portalScenarios.cancelScenario({ area: "Global", name: userInitiatedFeedback, isSuccess: true });
+                    break;
+
+                // scenario to measure how many users send feedback successfully
+                case 'FeedbackSend':
+                    window.portalScenarios.endScenario({ area: "Global", name: userInitiatedFeedback, isSuccess: true });
+                    break;
+                }
+            }
+        }
+
+        function sendFeedback(data) {
+
+            var event = {
+                name: 'Ms.Webi.MeePortal.UserFeedback',
+                content: {
+                    'Ms.Webi.MeePortal.UserFeedback': {
+                        feedback_activityId: data.content.id,
+                        feedback_pageid: data.content.pageid,
+                        feedback_message: data.content.message,
+                        feedback_propbag: JSON.stringify(data.content.systemInfo)
+                    }
+                }
+            };
+
+            window.portalQos.reportRawEvent(event);
+        }
+
+        function disposeFeedback() {
+            MeePortal.Feedback.control.dispose();
+        }
+
+        $(window).load(initFeedback);
+       
+        $(window).unload(disposeFeedback);
+    }());
+</script>
+    
+
+    
+
+
+
+    
+<script src="/bundles/scripts/angular?v=QkL6rIxMeRzLYtBHwjX8LNPqt3ArycW25ZQdKZkjRXE1"></script>
+
+
+    
+
+
+<script type="text/javascript">
+    var MeePortal;
+(function (MeePortal) {
+    var Shared;
+    (function (Shared) {
+        var Commerce;
+        (function (Commerce) {
+            var CommerceDataModule = /** @class */ (function () {
+                function CommerceDataModule() {
+                }
+                CommerceDataModule.create = function (cpControlsEndpoint, locale, proxyTicket, cid) {
+                    var commerceDataModule = angular.module(CommerceDataModule.commerceDataModuleName, []);
+                    var commerceConfig = {
+                        cpControlsEndpoint: cpControlsEndpoint
+                    };
+                    var currentUser = {
+                        locale: locale,
+                        proxyTicket: proxyTicket,
+                        cid: cid
+                    };
+                    commerceDataModule.constant(CommerceDataModule.commerceConfigKey, commerceConfig);
+                    commerceDataModule.constant(CommerceDataModule.commerceCurrentUserKey, currentUser);
+                    return commerceDataModule;
+                };
+                CommerceDataModule.commerceDataModuleName = "commerceDataModule";
+                CommerceDataModule.commerceConfigKey = "commerceConfig";
+                CommerceDataModule.commerceCurrentUserKey = "commerceCurrentUser";
+                return CommerceDataModule;
+            }());
+            Commerce.CommerceDataModule = CommerceDataModule;
+        })(Commerce = Shared.Commerce || (Shared.Commerce = {}));
+    })(Shared = MeePortal.Shared || (MeePortal.Shared = {}));
+})(MeePortal || (MeePortal = {}));
+
+//# sourceMappingURL=commerceDataModule.js.map
+
+    MeePortal.Shared.Commerce.CommerceDataModule.create(
+        "https\x3a\x2f\x2fcontrols.platform.account.www.microsoft.com\x2f",
+        "ru-RU",
+        "GAA9AgMAAAAEgAAADAEUjvxNFnSK2u9EJ4JbgvmpcmhHkVYAAffAj6Bec0iz5\x2b3SX98utEM77nx138\x2bmLjdo1Zd2YzwqZPtaBjTMBP3jPJaJnUx7d0\x2fHznh2uRGo\x2f4NqiQeAB2jxWXVTtRgaKAXmdITLHFCmw0Jaoi\x2bVQV1Dr6PU1rycdoI0tELwlOptjcOoJS\x2bxK\x2fYb1Nl37PqRTFYUmv3Jm3C2J\x2fUq8An2\x2bWJdJKmQ\x2fgLkgFHrTy2CChB9jXyfletUuijlVB\x2bWSavtchsmDCAYOom80xE8zWBkI2vBrDnhNmx722c6ploW1d8qI8Mz1MABg\x2fBHwlY1\x2fktsNyv\x2feumi1zbjgo4oCv6fbTXIsXAa\x2bdWwAL2BRYjH0jbJHcpMbqB9XscWAXsAFgH\x2bfwMA1MYn6HOA911zgPddOncEAAoTIIAQAABgAAAieWFzeWExMTAwJW91dGxvb2suY29tQHBhc3Nwb3J0LmNvbQAAAA8AAAAAAAAAAAAAAAAAAABVQCAGQwAI0JzQsNC60YEACNCc0LDQutGBAAAAAAAAAAAAAAAAAAAAAAAAE07QGkAmIpsAAHOA9110J25eAAAAAAAAAAAAAAAADwAxODguMTYzLjk5LjIyNgAFAwAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAt1z6GXOu\x2beEAAAAAAAAAAAAAAAAAAAAAAAARACszODAgOTUgMjU1IDY0MDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "4026229b134ed01a");
+</script>
+
+    <script src="/bundles/scripts/angularCommonModule?v=ZHzcr9GU4s-gBL9r_KPcQGLlCj8X2J1DIFR01wMO3sk1"></script>
+
+    <script src="/bundles/scripts/marketization-angular?v=Z_tudw4nq7ry3zt6M6zBpjGBhMEoHy6yG2b-DjujzNE1"></script>
+
+    <script src="/bundles/scripts/bodymovinAnimation?v=Y6nIAGVG360svYBW5mqwam8UcMI1lprLZpkXJ55Q4FY1"></script>
+
+<script src="/bundles/scripts/angularFeedbackOneUi?v=yrzQciPI9NqDw5emQeL-bRP6pmlfbQKqR7z1j24raGM1"></script>
+    
+    <script type="text/javascript">
+
+        //  Module that maintains configuration and data for home section.
+        var homeDataModule = angular.module("homeDataModule", []);
+
+        var areaConfig = {
+            areaPrefix: "home",
+            serviceEndpointRoot: "/home/api/",
+            userMarket: "RU",
+            content: {"banner":{"profileColumn":{"completeYourProfile":"Завершите создание профиля","editProfile":"Редактировать профиль","missing":"Отсутствует:","email":"почта","phoneNumber":"номер телефона","firstName":"имя","lastName":"фамилия","moreActions":"Дополнительные действия","ariaAddProfilePicture":"Добавить аватар профиля","ariaEditProfilePicture":"Измените аватар профиля","addProfilePicture":"Добавить аватар профиля","addYourName":"Добавить имя","profilePictureAltText":"Изображение профиля","profilePageLink":{"id":null,"text":"n/a","url":"/profile","target":null,"ariaLabel":null,"customAttrs":{}},"editPictureLink":{"id":null,"text":"n/a","url":"/profile/edit-picture","target":null,"ariaLabel":null,"customAttrs":{}},"editNameLink":{"id":null,"text":"n/a","url":"/profile/edit-name","target":null,"ariaLabel":null,"customAttrs":{}},"editProfileLink":{"id":null,"text":"Редактировать профиль","url":"/profile?fref=home.banner.profile","target":null,"ariaLabel":null,"customAttrs":{}},"viewInboxLink":{"id":null,"text":"Просмотреть папку \u0022 Входящие\u0022","url":"https://www.outlook.com/?refd=account.microsoft.com\u0026fref=home.banner.viewinbox","target":null,"ariaLabel":null,"customAttrs":{}},"changePasswordLink":{"id":null,"text":"Изменить пароль","url":"https://account.live.com/password/change?refd=account.microsoft.com\u0026fref=home.banner.changepwd","target":null,"ariaLabel":null,"customAttrs":{}}},"paymentInstrumentsColumn":{"coldStartTitle":"Настройка способа оплаты","paymentAndBilling":"Оплата и выставление счетов","expiredPaymentInstruments":"Срок действия моей кредитной карты истек","microsoftAccountPaymentInstrument":"Учетная запись Майкрософт","addAWayToPayLink":{"id":null,"text":"Настроить","url":"/billing/payments?c.state=add","target":null,"ariaLabel":null,"customAttrs":{}},"updatePaymentTypeLink":{"id":null,"text":"Обновить тип оплаты","url":"/billing/payments","target":null,"ariaLabel":null,"customAttrs":{}},"managePaymentInstrumentsLink":{"id":null,"text":"Управление","url":"/billing/payments","target":null,"ariaLabel":"Управление платежными средствами","customAttrs":{}}},"familyColumn":{"coldTitle":"Подключение семьи","familySubtitle":"Семья","addMember":"Добавить участника","viewFamily":"Просмотр семьи","pendingRequests":"Запросы в ожидании:"},"devicesColumn":{"coldTitle":"Управление устройствами","connectedDevices":"Устройства: {deviceCount}","devices":"Устройства","addADeviceLink":{"id":null,"text":"Добавить устройство","url":"/devices","target":null,"ariaLabel":null,"customAttrs":{}},"manageDevicesLink":{"id":null,"text":"Управление","url":"/devices","target":null,"ariaLabel":"Управление устройствами","customAttrs":{}}},"rewardsColumn":{"microsoftRewards":"Программа Microsoft Rewards","totalPoints":"Доступные баллы: {points}","totalPointsAria":"Всего баллов: {points}","inactiveUserTitle":"Получайте и используйте накопленные баллы","activeUserLink":{"id":null,"text":"Информационная панель","url":"/rewards","target":null,"ariaLabel":"Информационная панель Microsoft Rewards","customAttrs":{}},"inactiveUserLink":{"id":null,"text":"Дополнительные сведения","url":"/rewards/createuser","target":null,"ariaLabel":"Дополнительные сведения","customAttrs":{}}}},"cards":{"familyCard":{"cardBase":{"title":"Семья","coldHeading":"Одна счастливая соединенная семья","coldDescription":"Делитесь элементами, держите все в порядке и защищайте ваших детей в Интернете.","coldLink":{"id":null,"text":"Добавить участника","url":"/family/addmember","target":null,"ariaLabel":null,"customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/58/2a/582ae2cf-52fa-4689-ac4c-3ac59db79308.png?n=Family%402x.png","alt":"Parent with child","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/93/0b/930b6fa0-e32c-46d9-b9ba-3b8ca14cbabb.json?n=AMCHome_Family.json","alt":"Родитель с ребенком","title":null}},"addMoney":"Внесение денег","addMoneyLinkFormat":"/family/settings/add-money/{cid}?market={mkt}\u0026fref=amc.home","addMoneyAria":"Внесение денег на счет учетной записи {0}","manageFamilyLink":{"id":null,"text":"Управление семьей","url":"/family","target":null,"ariaLabel":null,"customAttrs":{}}},"devicesCard":{"cardBase":{"title":"Устройства","coldHeading":"Получить поддержку для устройства","coldDescription":"Обновите программное обеспечение, запланируйте ремонт и т. д.","coldLink":{"id":null,"text":"Подключить устройство","url":"/devices","target":null,"ariaLabel":null,"customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/3b/5d/3b5d0ec6-6951-4d16-aa3a-965f18ecf1c8.png?n=Devices%403x.png","alt":"Devices","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/ce/b7/ceb7107c-ed67-4098-89bb-34ca8c124cf6.json?n=AMCHome_Devices.json","alt":"Устройства","title":null}},"manageSingleDevice":"Управление","manageAllDevices":"Все устройства","manageDeviceAriaLabel":"Управление {deviceName}","manageDeviceLink":"/devices/device?deviceId={0}\u0026pivot=status\u0026isWarrantyOnly={1}","devicesLandingPageLink":{"id":null,"text":"Неприменимо","url":"/devices","target":null,"ariaLabel":null,"customAttrs":{}}},"helpCard":{"title":"Справка","coldHeading":"Справка по учетной записи","coldDescription":"Получите ответы и советы от экспертов по продуктам и службам Майкрософт.","coldLink":{"id":null,"text":"Справка","url":"https://support.microsoft.com/en-us/products/microsoft-account","target":null,"ariaLabel":null,"customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/da/bc/dabc442e-3f1e-4303-b4dd-8aa890904b74.png?n=Help-cold%402x.png","alt":"Help","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/f0/c2/f0c20edd-47dc-44f7-a2a4-8c8517b5cb15.json?n=AMCHome_Help.json","alt":"Справка","title":null}},"paymentBillingCard":{"cardBase":{"title":"Оплата и выставление счетов","coldHeading":"Более быстрое оформление заказа","coldDescription":"Добавьте способ оплаты в вашу учетную запись, чтобы быстрее оформлять заказы в Microsoft Store.","coldLink":{"id":null,"text":"Настроить","url":"/billing/payments?c.state=add","target":null,"ariaLabel":"Настройка способа оплаты","customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/49/d7/49d73376-bc13-4f01-a88d-377339aa0f5c.png?n=Payment-billing-cold%402x.png","alt":"Payments and Billing","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/db/81/db815a24-ce89-46e0-b179-f182b5ae55d6.json?n=AMCHome_PaymentsandBilling.json","alt":"Платежи и выставление счетов","title":null}},"individualOrderLink":"https://account.microsoft-int.com/billing/orders#/?state=details\u0026order={order-id}","fullOrderHistoryLink":{"id":null,"text":"Журнал заказов","url":"/billing/orders","target":null,"ariaLabel":null,"customAttrs":{}}},"privacyCard":{"title":"Конфиденциальность","coldHeading":"Ваша конфиденциальность очень важна","coldDescription":"Просматривайте и изменяйте персональные данные, сохраненные в вашей учетной записи Майкрософт.","coldLink":{"id":null,"text":"Журнал действий","url":"/privacy/activity-history","target":null,"ariaLabel":null,"customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/9f/59/9f594867-64b0-45f5-84c8-fc2d7f3a0978.png?n=Privacy-cold%402x.png","alt":"Privacy","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/ea/c1/eac1f3a9-a681-41e0-af9f-2ccfab533b51.json?n=AMCHome_Privacy.json","alt":"Конфиденциальность","title":null}},"rewardsCard":{"cardBase":{"title":"Вознаграждения Rewards","coldHeading":"Вы получаете вознаграждение","coldDescription":"Получайте баллы при покупке продуктов Microsoft Store для Xbox и Windows.","coldLink":{"id":null,"text":"Подробнее","url":"/rewards/createuser?PUBL=MSCOMInProduct\u0026CREA=MY00I3","target":null,"ariaLabel":"Подробнее","customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/52/7a/527af9c3-7036-4828-a340-819abcb04b6e.png?n=Rewards%403x.png","alt":"Rewards","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/ec/3a/ec3aeb6a-39f6-4d8b-bc81-e334248c5625.json?n=AMCHome_Rewards.json","alt":"Вознаграждения Rewards","title":null}},"totalPoints":"Баллов: {points}"},"securityCard":{"title":"Безопасность","coldHeading":"Обновление сведений о безопасности","coldDescription":"Если вы забыли свой пароль, убедитесь, что ваши данные актуальны.","coldLink":{"id":null,"text":"Обновление","url":"/security","target":null,"ariaLabel":"Обновление сведений о безопасности","customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/fa/3d/fa3dda8d-c89d-4e3b-8273-7b436ae826fa.png?n=security-cold%402x.png","alt":"Security","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/f1/3a/f13ab782-ca2b-47e3-ada4-aa8d621de3ce.json?n=AMCHome_Security.json","alt":"Безопасность","title":null}},"subscriptionsCard":{"cardBase":{"title":"Подписки","coldHeading":"Попробуйте Office 365 для дома бесплатно!","coldDescription":"Станьте более продуктивными — попробуйте Office 365, включая Powerpoint, Word, Excel, OneNote и другие приложения.","coldLink":{"id":null,"text":"Начните использовать бесплатную пробную версию","url":"https://products.office.com/try?ocid=PROD_AMC_CONS_MEE_ACQ_HOME_SubsCard","target":null,"ariaLabel":"Начните использовать бесплатную пробную версию Office 365","customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/11/a5/11a56f49-7f6c-42ac-b985-267183589cbd.svg?n=Office 6.1.svg","alt":"Subscriptions","title":null},"coldAnimation":null},"renewsOn":"Дата возобновления: {renewDate}","expiresOn":"Срок действия истекает {expireDate}","allSubscriptionsLink":{"id":null,"text":"Все подписки","url":"/services","target":null,"ariaLabel":null,"customAttrs":{}},"coldRedeemHeading":"Использовать карту или код?","coldRedeemDescription":"Здесь вы можете использовать карту предоплаты или код для Office 365.","coldRedeemLink":{"id":null,"text":"Использовать","url":"https://redeem.microsoft.com/","target":null,"ariaLabel":"Использовать карту или код","customAttrs":{}}},"servicesCard":{"title":"Обнаружение","coldHeading":"Изучите службы Майкрософт","coldDescription":"Получите доступ ко всем бесплатным продуктам и службам Майкрософт с помощью вашей учетной записи Майкрософт.","coldLink":{"id":null,"text":"Дополнительные сведения","url":"https://www.microsoft.com/welcome?rtc=1#primaryR3","target":null,"ariaLabel":"Подробнее о службах Майкрософт","customAttrs":{}},"coldImage":{"src":"https://compass-ssl.microsoft.com/assets/d6/ac/d6acfb1d-c98e-4e49-a411-45692174f486.png?n=AMC_Services.png","alt":"Обнаружение","title":null},"coldAnimation":{"src":"https://compass-ssl.microsoft.com/assets/ec/2a/ec2a8411-1c77-4382-8d3d-5b6e40b79a56.json?n=AMCHome_Discover.json","alt":"Безопасность","title":null}}}}
+        };
+
+        homeDataModule.constant("areaConfig", areaConfig);
+
+        //  Configure marketization.
+        homeDataModule.constant("marketizationConfig", {"serviceEndpointRoot":"/api/","userCountry":"RU","defaultAddrParts":"line1,line2,city,state,zip","countries":[{"iso":"RU","name":"Россия","hasStates":true,"nameParts":"first,last","threeLetterISO":"RUS"}]});
+
+    </script>
+
+    <script src="/bundles/templates/homeOneUi?v=jB8ksaIyYpR6Azdzfv7RDm8WoM5su1NNcBTC3ce6bv01"></script>
+
+    <script src="/bundles/scripts/homeOneUi?v=6myzARoeYUFbfbl59MrjE_-wgGGasaIs6yC-XEZ0MIA1"></script>
+
+
+
+    
+
+
+
+<script type="text/javascript" id="common-module">
+    if (window["angular"]) {
+        var commonModule;
+        try {
+            commonModule = angular.module("commonModule");
+        }
+        catch (e) {
+            commonModule = angular.module("commonModule", []);
+        }
+
+        var commonConfig = {
+            area: "home",
+            userCulture: "ru-RU",
+            userMarket: "RU",
+            isAuthenticated: true,
+            hbiSignInUrl: "https\x3a\x2f\x2flogin.live.com\x2flogin.srf\x3fwa\x3dwsignin1.0\x26rpsnv\x3d13\x26ct\x3d1576501477\x26rver\x3d7.0.6738.0\x26wp\x3dSAPI\x26wreply\x3dhttps\x3a\x252F\x252Faccount.microsoft.com\x252Fauth\x252Fcomplete-signin\x26lc\x3d1049\x26id\x3d292666\x26lw\x3d1\x26fl\x3deasi2",
+            completeSignInReturnUrl: "https\x3a\x2f\x2faccount.microsoft.com\x2fauth\x2fcomplete-signin",
+            threatMetrixUrlFormat: "https://fpt.microsoft.com/tags?session_id={0}",
+            isRightToLeft: false
+        };
+
+        commonModule.constant("commonConfig", commonConfig);
+
+    
+        commonModule.constant("sharedCmsComponents", {"progressView":{"progressMessage":"Выполняется загрузка. Подождите…","errorTitle":"Повторите попытку","errorMessage":"Произошла ошибка, и сейчас мы не можем показать все данные. Подождите некоторое время.","tryAgainButton":"Повторить попытку"},"altaNotifications":null});
+    
+
+
+    }
+</script>
+
+    <!-- ServedBy: N22ektmNHh6Apk/P7JolrA2NlqD8OVnRR/C0OJuPFXX9wj1PCltxHVpm6V2V9PwL::1c/TbvNw1YBYitqzdvu84g==; ActivityId: 439RvIn6SEKR1Od9.4.7 -->
+</body>
+</html>
